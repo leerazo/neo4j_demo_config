@@ -1,6 +1,0 @@
-# Wait 60 seconds before connecting using these details, or login to https://console.neo4j.io to validate the Aura Instance is available
-NEO4J_URI=neo4j+s://42751f4e.databases.neo4j.io
-NEO4J_USERNAME=neo4j
-NEO4J_PASSWORD=qa5cOakTo5qHSsIa76cAMZKrPYBkVT2KCWERh4TZvFk
-AURA_INSTANCEID=42751f4e
-AURA_INSTANCENAME=leerazo-azure-medicalassistant
